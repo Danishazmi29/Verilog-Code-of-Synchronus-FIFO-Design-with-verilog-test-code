@@ -1,0 +1,42 @@
+This is a Full version of ISim.
+Time resolution is 1 ps
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+Pushed   1
+Pushed   2
+-------------------------------Poped   1
+Pushed  10
+Pushed  20
+Pushed  30
+Pushed  40
+Pushed  50
+Pushed  60
+Pushed  70
+---Cannot push: Buffer Full---
+---Cannot push: Buffer Full---
+---Cannot push: Buffer Full---
+---Cannot push: Buffer Full---
+---Cannot push: Buffer Full---
+---Cannot push: Buffer Full---
+-------------------------------Poped   2
+Pushed   2
+-------------------------------Poped  10
+-------------------------------Poped  20
+-------------------------------Poped  30
+-------------------------------Poped  40
+Pushed 140
+-------------------------------Poped  50
+Pushed  50
+-------------------------------Poped  60
+-------------------------------Poped  70
+-------------------------------Poped   2
+-------------------------------Poped 140
+-------------------------------Poped  50
+---Cannot Pop: Buffer Empty---
+---Cannot Pop: Buffer Empty---
+---Cannot Pop: Buffer Empty---
+---Cannot Pop: Buffer Empty---
+---Cannot Pop: Buffer Empty---
+---Cannot Pop: Buffer Empty---
+Pushed   5
+-------------------------------Poped   5
